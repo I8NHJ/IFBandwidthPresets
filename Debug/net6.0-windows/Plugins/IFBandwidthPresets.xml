@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ButtonConfigRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Values>
+		<ButtonConfiguration>
+			<ButtonText>Test 1</ButtonText>
+			<Bandwidth>1000</Bandwidth>
+			<FilterOrder>1000</FilterOrder>
+			<FilterType>1</FilterType>
+		</ButtonConfiguration>
+		<ButtonConfiguration>
+			<ButtonText>Test 2</ButtonText>
+			<Bandwidth>3000</Bandwidth>
+			<FilterOrder>1000</FilterOrder>
+			<FilterType>2</FilterType>
+		</ButtonConfiguration>
+		<ButtonConfiguration>
+			<ButtonText>Test 3</ButtonText>
+			<Bandwidth>3000</Bandwidth>
+			<FilterOrder>1000</FilterOrder>
+			<FilterType>2</FilterType>
+		</ButtonConfiguration>
+		<ButtonConfiguration>
+			<ButtonText>Test 4</ButtonText>
+			<Bandwidth>3000</Bandwidth>
+			<FilterOrder>1000</FilterOrder>
+			<FilterType>2</FilterType>
+		</ButtonConfiguration>
+	</Values>
+</ButtonConfigRoot>

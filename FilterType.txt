@@ -1,0 +1,13 @@
+namespace SDRSharp.Radio
+{
+    public enum WindowType
+    {
+        None = 0,
+        Hamming = 1,
+        Blackman = 2,
+        BlackmanHarris4 = 3,
+        BlackmanHarris7 = 4,
+        HannPoisson = 5,
+        Youssef = 6
+    }
+}

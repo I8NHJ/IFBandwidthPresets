@@ -1,0 +1,1053 @@
+*** Plugin Load Error - 2022-09-24 18:01:45.235
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:01:45.308
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:01:45.318
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:02:28.020
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:02:28.048
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:02:28.049
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:14:42.254
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:14:42.277
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:14:42.278
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:19:19.896
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:19:19.919
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:19:19.920
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:22:19.874
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:22:19.895
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:22:19.896
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:40:22.345
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:40:22.370
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:40:22.371
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:45:32.741
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:45:32.763
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:45:32.764
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:46:28.146
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:46:28.170
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 18:46:28.171
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 19:01:25.003
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 19:01:25.039
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 19:01:25.049
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 19:05:20.103
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 19:05:20.131
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 19:05:20.131
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 19:11:17.240
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 19:11:17.265
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-24 19:11:17.266
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 03:49:38.332
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 03:49:38.786
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 03:49:39.235
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 17:41:08.233
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 17:41:09.128
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 17:41:09.752
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 17:42:48.731
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 17:42:48.751
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 17:42:48.752
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 17:47:55.678
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 17:47:55.696
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 17:47:55.697
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 17:55:19.819
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 17:55:19.837
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 17:55:19.838
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 19:10:33.770
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 19:10:33.889
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 19:10:33.891
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 19:24:57.316
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 19:24:57.358
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 19:24:57.358
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 19:32:38.276
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 19:32:38.301
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 19:32:38.302
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 20:27:09.471
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 20:27:09.513
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 20:27:09.514
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 20:29:02.450
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 20:29:02.489
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 20:29:02.489
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 20:32:55.136
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 20:32:55.195
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 20:32:55.196
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 20:36:31.319
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 20:36:31.379
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 20:36:31.380
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 21:47:31.276
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 21:47:31.341
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 21:47:31.342
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 21:47:50.562
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 21:47:50.603
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-25 21:47:50.605
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 16:19:07.394
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 16:19:07.736
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 16:19:07.794
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 16:19:55.625
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 16:19:55.728
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 16:19:55.767
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 16:23:03.028
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 16:23:03.135
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 16:23:03.171
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 16:24:41.020
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 16:24:41.114
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 16:24:41.146
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 16:27:28.256
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 16:27:28.361
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 16:27:28.398
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 23:06:03.148
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 23:06:03.328
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 23:06:03.341
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 23:14:59.946
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 23:14:59.990
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 23:14:59.991
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 23:15:41.107
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 23:15:41.146
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 23:15:41.147
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 23:26:43.524
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 23:26:43.568
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 23:26:43.568
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 23:39:42.177
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 23:39:42.233
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 23:39:42.234
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 23:44:18.344
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 23:44:18.385
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-27 23:44:18.386
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-28 01:19:12.716
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-28 01:19:12.866
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-28 01:19:12.880
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-28 01:29:28.923
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-28 01:29:28.967
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-28 01:29:28.968
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-28 01:29:51.636
+DLL          '.\SDRSharp.Common.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-28 01:29:51.675
+DLL          '.\SDRSharp.PanView.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
+*** Plugin Load Error - 2022-09-28 01:29:51.676
+DLL          '.\SDRSharp.Radio.dll'
+Message      'Assembly with same name is already loaded'
+Stack Trace
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, String ilPath, String niPath, ObjectHandleOnStack retAssembly)
+   at System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(String assemblyPath)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at SDRSharp.MainForm.LoadPluginTree(String directory, Dictionary`2 pluginTypes, List`1 orderedPluginKeys)
+
